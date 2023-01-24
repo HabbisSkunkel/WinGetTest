@@ -1,0 +1,19 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
+
+PackageIdentifier: traviskunkel.mealpicker
+PackageVersion: 1.0.0.0
+Installers:
+- Platform:
+  - Windows.Universal
+  - Windows.Desktop
+  MinimumOSVersion: 10.0.18362.0
+  Architecture: x86
+  InstallerType: msix
+  InstallerUrl: https://github.com/HabbisSkunkel/WinGetTest/releases/download/Test/WapProjTemplate2_1.0.0.0_x86.msix
+  InstallerSha256: A309AEB0BB05425D8FEC30F88D3911DF0137A579AD9D94D4EE22952D726E2A6D
+  SignatureSha256: 5EB7B25C6F6D270C7C7C82ACD8B8EDA25D1CC67E5B9B97B6C711CA8A347CA657
+  PackageFamilyName: 7b2b2f97-8964-45ef-95cc-89642f2a7213_d9q6bcxrycsca
+ManifestType: installer
+ManifestVersion: 1.2.0
+

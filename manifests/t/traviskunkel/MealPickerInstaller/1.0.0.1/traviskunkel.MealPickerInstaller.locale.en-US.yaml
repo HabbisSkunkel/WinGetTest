@@ -1,0 +1,13 @@
+# Created using wingetcreate 1.1.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: traviskunkel.MealPickerInstaller
+PackageVersion: 1.0.0.1
+PackageLocale: en-US
+Publisher: traviskunkel
+PackageName: Meal Picker Installer
+License: none
+ShortDescription: Meal Picker Installer
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
+
